@@ -22,7 +22,7 @@ footer:
 author: 'Dexter'
 nickname: '外星人'
 bio: '虚幻引擎游戏开发见习、cocos2dx技术研究者、造轮子的铁匠、Android开发先民'
-avatar: '/assets/img/profile.png'
+avatar: 'https://wx4.sinaimg.cn/orj360/6aa9ae7fgy1fu2tlu9jyjj21sg2ds7wh.jpg'
 
 # Search
 search: true
@@ -37,15 +37,15 @@ disqus_url: 'https://liaokeyu.disqus.com/embed.js'
 livere: true
 livere_uid: MTAyMC8yODEwMC80Njcz
 
+# MathJax 公式支持 by Ray-Eldath
+mathjax: true
+
 # Reward 赞赏功能 by Ray-Eldath
 reward:
   enable: true
   reward_comment: '真诚赞赏 手有余香'
   wechatpay: 'http://ray-eldath.image.alimmdn.com/basic/wechatpay.jpg'
   alipay: 'http://ray-eldath.image.alimmdn.com/basic/alipay.jpg'
-
-# b2t 回到顶部 by Ray-Eldath
-b2t: true
 
 # Share
 social-share: true
@@ -55,14 +55,13 @@ social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
 theme-color: 'default'  # pink or default
 
 # Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
-postPatterns: 'ticTacToe'
+postPatterns: 'circuitBoard'
 
 # SNS settings 配置社交网站url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  email: 'mailto:go.sharp.cn@gmail.com'
-  weibo: '//weibo.com/xx00'
-  linkedin: '//www.instagram.com/steveliaocn'
-  github: '//github.com/hydrachen'
+  weibo: '//weibo.com/cqyzy'
+  instagram: '//dexterchenx.lofter.com'
+  github: '//github.com/DexterChenLib'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
